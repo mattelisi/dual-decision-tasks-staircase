@@ -52,8 +52,8 @@ scr.width   = 310;  % monitor width (mm)
 
 soa_range = [0.4, 0.6];
 iti = 1; % inter trial interval
-n_trials = 2; % it should be divisible by 5
-n_trials_practice = 0;
+n_trials = 250; % it should be divisible by 5
+n_trials_practice = 10;
 
 % if you want also self-report ratings after each decision [1, 2]
 collect_confidence = [0, 0]; 
