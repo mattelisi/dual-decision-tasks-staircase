@@ -1,0 +1,379 @@
+Number,Name,Energy_per_100g,Total_energy_on_plate,image
+1,Potato crisps (natural),541,NA,1.jpg
+2,Cocktail nuts,547,NA,2.jpg
+3,Cheese twist,508,NA,3.jpg
+4,Nuts,577,NA,4.jpg
+5,Toast Brie cheese,418.625,NA,5.jpg
+6,Liver sausage,286,NA,6.jpg
+7,Sausage bread (small),382,NA,7.jpg
+8,Cheese,363,NA,8.jpg
+9,Mini frankfurter sausages,202,NA,9.jpg
+10,Spring rolls,181,NA,10.jpg
+11,Croquettes,298,NA,11.jpg
+12,Chicken nuggets,272,NA,12.jpg
+13,Fish sticks,239,NA,13.jpg
+14,Croissants,403,NA,14.jpg
+15,Bagels,257,NA,15.jpg
+16,French fries,306,NA,16.jpg
+17,Sausage rolls,369,NA,17.jpg
+18,Pizza slices,251,NA,18.jpg
+19,Meatballs,303,NA,19.jpg
+20,Bread with garlic butter,417.6666666666667,NA,20.jpg
+21,Mozarella on toast,300.85714285714283,NA,21.jpg
+22,Cheese snacks,508,NA,22.jpg
+23,Tucs,472,NA,23.jpg
+24,Nacho-cheese tortilla chips,487,NA,24.jpg
+25,Donuts with icing (4 donuts),416,NA,25.jpg
+26,Chocolate chip cookies,500,NA,26.jpg
+27,Fondant cake,439,NA,27.jpg
+28,Whipped cream cookies with chocolate,287,NA,28.jpg
+29,Twix bars,495,NA,29.jpg
+30,Strawberries with whipped cream,75.618,NA,30.jpg
+31,Stroopwafels mini,473,NA,31.jpg
+32,Milk chocolate,546,NA,32.jpg
+33,Winegums,349,NA,33.jpg
+34,Gingerbread with butter,376.66,NA,34.jpg
+35,Biscuit with chocolate,469,NA,35.jpg
+36,Chocolate nuts colors,584,NA,36.jpg
+37,Mars,447,NA,37.jpg
+38,Chocolate Cupcake iced with nuts,548.4,NA,38.jpg
+39,Pancakes (small),196,NA,39.jpg
+40,Strawberry candies,360,NA,40.jpg
+41,Tompouce mini,288,NA,41.jpg
+42,Bonbons (chocolates),519,NA,42.jpg
+43,Brownies,401,NA,43.jpg
+44,Whipped cream pie,350,NA,44.jpg
+45,Banana candies,360,NA,45.jpg
+46,Ice cream with chocolate,264.642,NA,46.jpg
+47,Apple turnover,361,NA,47.jpg
+48,Liquorice allsorts,394,NA,48.jpg
+49,Chocolate éclair (round),307,NA,49.jpg
+50,Breadsticks,401,NA,50.jpg
+51,"Olive, pepper and cucumber salad",57.8996,NA,51.jpg
+52,Roast beef on toast,206.94736842105263,NA,52.jpg
+53,Horse radish on toast,22,NA,53.jpg
+54,Prawns,94,NA,54.jpg
+55,Egg salad,248,NA,55.jpg
+56,Tomato,23,NA,56.jpg
+57,Egg on toast,189.667,NA,57.jpg
+58,Pepper,22,NA,58.jpg
+59,Salad Mozarella tomato,86.78599999999999,NA,59.jpg
+60,Steak tartare on toast,273.259,NA,60.jpg
+61,Salty sticks (Pretzels),395,NA,61.jpg
+62,Carrots,33,NA,62.jpg
+63,Carrot and cucumber sticks,26.330099999999998,NA,63.jpg
+64,Rice crackers,383,NA,64.jpg
+65,Cucumber,13,NA,65.jpg
+66,Sushi,165,NA,66.jpg
+67,Tuna salad,303,NA,67.jpg
+68,Olives,111,NA,68.jpg
+69,Mini pickles (sour),10,NA,69.jpg
+70,Tuna on toast,146.32810047095762,NA,70.jpg
+71,Sweet corn,74,NA,71.jpg
+72,Crackers,388,NA,72.jpg
+73,Celery salad on toast,255.9804,NA,73.jpg
+74,Celery sticks,14,NA,74.jpg
+75,Apple,60,NA,75.jpg
+76,Biscuits,473,NA,76.jpg
+77,"Fruit salad (apple, strawberry, raspberries, grapes)
+",47.4787,NA,77.jpg
+78,Strawberries,29,NA,78.jpg
+79,Gingerbread,318,NA,79.jpg
+80,Grapes,78,NA,80.jpg
+81,Banana 1,95,NA,81.jpg
+82,Egg cake,287,NA,82.jpg
+83,Egg cake with strawberries,116.42148760330578,NA,83.jpg
+84,Whole-wheat biscuits,452,NA,84.jpg
+85,Red berries,48,NA,85.jpg
+86,Apple sauce,72,NA,86.jpg
+87,Tangerine pieces,45,NA,87.jpg
+88,Ladyfingers/ sponge-fingers/ trifle sponges/ boudoir biscuits,415,NA,88.jpg
+89,Raisins,326,NA,89.jpg
+90,Kiwi pieces,68,NA,90.jpg
+91,Melon,25,NA,91.jpg
+92,Pineapple,57,NA,92.jpg
+93,"Fruit salad (tangerine, kiwi, melon, pineapple, apple)",47.688679245283026,NA,93.jpg
+94,Pear 1,55,NA,94.jpg
+95,Ice lollies 1,88,NA,95.jpg
+96,Mango,66,NA,96.jpg
+97,Grapefruit,37,NA,97.jpg
+98,Peach,41,NA,98.jpg
+99,Orange,51,NA,99.jpg
+100,Mini donuts,358,NA,100.jpg
+101,Pancakes,196,NA,101.jpg
+102,Fondant cake,424,NA,102.jpg
+103,Whipped cream cookies,286,NA,103.jpg
+104,Kinder Bueno/Children's Bueno,571,NA,104.jpg
+105,Smarties 1,465,NA,105.jpg
+106,Chocolate bar,549.6,NA,106.jpg
+107,Winegums,335,NA,107.jpg
+108,Biscuit with chocolate,469,NA,108.jpg
+109,Stroopwafels/Syrup waffles,473,NA,109.jpg
+110,Chocolate nuts,560,NA,110.jpg
+111,Kitkat,520,NA,111.jpg
+112,Cake with chocolate,450,NA,112.jpg
+113,Peach candies,341,NA,113.jpg
+114,Tompouce,288,NA,114.jpg
+115,Brownies,401,NA,115.jpg
+116,Bonbons (chocolates),519,NA,116.jpg
+117,Strawberry pie with whipped cream,205,NA,117.jpg
+118,Cake,424,NA,118.jpg
+119,Icecream (mini Magnum),331,NA,119.jpg
+120,Candy,335,NA,120.jpg
+121,Chocolate eclairs (round),307,NA,121.jpg
+122,Pepper potato crisps,544,NA,122.jpg
+123,Tiger nuts,547,NA,123.jpg
+124,Cheese cookies,560,NA,124.jpg
+125,Pizza bolognese slice,220,NA,125.jpg
+126,Grill sausage,318,NA,126.jpg
+127,Cornetto's (icecream),297,NA,127.jpg
+128,Frankfurter sausages,202,NA,128.jpg
+129,Mini croquettes,298,NA,129.jpg
+130,Croissants,424,NA,130.jpg
+131,Cheese plate,338,NA,131.jpg
+132,French fries with sauce,367.71,NA,132.jpg
+133,Sausage roll,382,NA,133.jpg
+134,Pizza margarita,210,NA,134.jpg
+135,Almond cake,408,NA,135.jpg
+136,Donuts with icing (3 donuts),416,NA,136.jpg
+137,Bread with garlic butter,417.6666666666667,NA,137.jpg
+138,Meatballs,303,NA,138.jpg
+139,Nitbits crisps,475,NA,139.jpg
+140,Cream cheese on toast,370.29600000000005,NA,140.jpg
+141,Spanish sausage,358,NA,141.jpg
+142,Apple (green),60,NA,142.jpg
+143,"Fruitsalad (berries, banana, melon)",56.36,NA,143.jpg
+144,Strawberries,29,NA,144.jpg
+145,"Grapes, white",78,NA,145.jpg
+146,Banana 2,95,NA,146.jpg
+147,Apple sauce,72,NA,147.jpg
+148,Tangerine,45,NA,148.jpg
+149,"Kiwi, halves",68,NA,149.jpg
+150,Melon,25,NA,150.jpg
+151,Pineapple pieces,57,NA,151.jpg
+152,Fruit salad,45.659340659340664,NA,152.jpg
+153,Pear 2,55,NA,153.jpg
+154,Ice lollies 2,91,NA,154.jpg
+155,Plums,49,NA,155.jpg
+156,Melon salad,30,NA,156.jpg
+157,Nectarine,33,NA,157.jpg
+158,Orange,51,NA,158.jpg
+159,Raspberries,43,NA,159.jpg
+160,Cherries,57,NA,160.jpg
+161,Watermelon,38,NA,161.jpg
+162,Red berries,48,NA,162.jpg
+163,Cream crackers,465,NA,163.jpg
+164,Rice crackers pepper,402,NA,164.jpg
+165,"Pepper, yellow",23,NA,165.jpg
+166,Radish,22,NA,166.jpg
+167,Shrimps,94,NA,167.jpg
+168,Crackers,391,NA,168.jpg
+169,Little tomatoes,30,NA,169.jpg
+170,"Eggs, halves",136,NA,170.jpg
+171,"Tomato, cut",23,NA,171.jpg
+172,"Sweet pepper, red",28,NA,172.jpg
+173,Salty low fat crisps,481,NA,173.jpg
+174,Prawn salad,NA,NA,174.jpg
+175,Carrot,33,NA,175.jpg
+176,Cheese salad,NA,NA,176.jpg
+177,Cucumber,13,NA,177.jpg
+178,Olives,111,NA,178.jpg
+179,Pickles (sour),10,NA,179.jpg
+180,Sweet corn,74,NA,180.jpg
+181,Sushi,165,NA,181.jpg
+182,Greek salad,NA,NA,182.jpg
+183,Tuna  egg salad,120,NA,183.jpg
+184,Pretzels,395,NA,184.jpg
+185,Wotsits cheesey (chips),547,NA,185.jpg
+186,Monster (chips),NA,NA,186.jpg
+187,Thai Sweet chili,NA,NA,187.jpg
+188,Ritz crackers,NA,NA,188.jpg
+189,Bagels,NA,NA,189.jpg
+190,Quiche lorraine,259,NA,190.jpg
+191,Cheese and onion topped baps,NA,NA,191.jpg
+192,Crackers with medium mature white cheddar cheese,NA,NA,192.jpg
+193,Scottish eggs,NA,NA,193.jpg
+194,Pistache nuts,NA,NA,194.jpg
+195,Babybel cheese 1,NA,NA,195.jpg
+196,Babybel cheese 2,NA,NA,196.jpg
+197,Pasties (mini),NA,NA,197.jpg
+198,Pasties,NA,NA,198.jpg
+199,Bifi sausages,NA,NA,199.jpg
+200,Grapes,78,NA,200.jpg
+201,Coconut (open),415,NA,201.jpg
+202,Coconut (half and pieces),415,NA,202.jpg
+203,Blue berries,30,NA,203.jpg
+204,Black berries,37,NA,204.jpg
+205,Apricots,44,NA,205.jpg
+206,Apricots (halves),44,NA,206.jpg
+207,Orchard fruit salad,NA,NA,207.jpg
+208,"Rainbowdrops, sugar coated puffed maize and rize",NA,NA,208.jpg
+209,Fying saucers (sherbet fillet eafers),NA,NA,209.jpg
+210,Yogurt breaks forest fruit,NA,NA,210.jpg
+211,"Yogurt breaks forest fruit, turned over",NA,NA,211.jpg
+212,Fruit bites orange,NA,NA,212.jpg
+213,Dried ready to eat soft apricots,NA,NA,213.jpg
+214,Carrots,33,NA,214.jpg
+215,Ryvita thins,NA,NA,215.jpg
+216,Bread stick sesame,401,NA,216.jpg
+217,Mini Snack a Jacks,414,NA,217.jpg
+218,Scottish rough oatcakes,NA,NA,218.jpg
+219,Pumpkin seeds,NA,NA,219.jpg
+220,Mini peppers,22,NA,220.jpg
+221,Sunbites whole grain crispy snacks,NA,NA,221.jpg
+222,Matzo sticks,NA,NA,222.jpg
+223,Crab salad,NA,NA,223.jpg
+224,Pickles (sour),10,NA,224.jpg
+225,Jelly babies,NA,NA,225.jpg
+226,Flapjack minibites,NA,NA,226.jpg
+227,Bakewell tarts (sweet pastry case with a fondant iced topping),NA,NA,227.jpg
+228,Blueberry muffins,NA,NA,228.jpg
+229,Iced fairy cakes,NA,NA,229.jpg
+230,Jam tarts,NA,NA,230.jpg
+231,Tea cakes,NA,NA,231.jpg
+232,Caramel short cake,NA,NA,232.jpg
+233,Iced madeira cake,NA,NA,233.jpg
+234,Fox's candy,NA,NA,234.jpg
+235,Oat and raisin cookies,NA,NA,235.jpg
+236,Chocolate eclaires,NA,NA,236.jpg
+237,Chocolate eclaires,NA,NA,237.jpg
+238,Mini chocolate eclaires,NA,NA,238.jpg
+239,Gateau Swiss Chocolate,NA,NA,239.jpg
+240,Hot cross buns,NA,NA,240.jpg
+241,Marshmellows,338,NA,241.jpg
+242,Mini éclair open,NA,NA,242.jpg
+243,Mini éclair closed,NA,NA,243.jpg
+244,Melon with ham,NA,NA,244.jpg
+245,Pizza Bolognese whole,234,NA,245.jpg
+246,Grapefruit and orange salad,NA,NA,246.jpg
+247,Sajtos pogacsa/savoury scone with cheese,432,NA,247.jpg
+248,Mixed nuts,639,NA,248.jpg
+249,Biscuits sweet,433,NA,249.jpg
+250,Gum candy snakes,336,NA,250.jpg
+251,Turo Rudi/Chocolat bar with curd filling,364,NA,251.jpg
+252,Kalacs/Braided bread with butter,319.3255813953489,NA,252.jpg
+253,Kalacs/Braided bread,288,NA,253.jpg
+254,Haribo gold bears,336,NA,254.jpg
+255,Chocolate cookie,469,NA,255.jpg
+256,Meggyes pite /Cherry pie,329,NA,256.jpg
+257,Francia Kremes/Pudding pastry with chocolate,396,NA,257.jpg
+258,Filled biscuit,469,NA,258.jpg
+259,Red grapes,78,NA,259.jpg
+260,Red grapes,78,NA,260.jpg
+261,Gum candy frogs,336,NA,261.jpg
+262,Peaches on syrup,60,NA,262.jpg
+263,Walnuts,708,NA,263.jpg
+264,Cherries on syrup,77,NA,264.jpg
+265,Sandwich with pate and cucumber,219.67,NA,265.jpg
+266,Sandwich with pate and cucumber,289.4498,NA,266.jpg
+267,Spring onion,31,NA,267.jpg
+268,Sandwich with cheese and margarine,346.294,NA,268.jpg
+269,"Sandwich with margarine, salami, cucumber and cheese",266.5004,NA,269.jpg
+270,"Sandwich with margarine, salami, cucumber",251.86599999999999,NA,270.jpg
+271,"Sandwich with margarine, salami",318.94399999999996,NA,271.jpg
+272,Small wafers,541,NA,272.jpg
+273,Sandwich with ham and margarine,270.37,NA,273.jpg
+274,Cheetos,535.5,NA,274.jpg
+275,Hotdog,243.51999999999998,NA,275.jpg
+276,Cracker with egg,195.041,NA,276.jpg
+277,Swedish salami,392,NA,277.jpg
+278,Open sandwich with ham,201.687,NA,278.jpg
+279,Paprika salami,358,NA,279.jpg
+280,Räksmörgås/ Shrimp sandwich,295,NA,280.jpg
+281,Ost bröd with beef and crème fraiche with dille,257.302,NA,281.jpg
+282,Ballerina cookie,485,NA,282.jpg
+283,Crepe with jam,213.09999999999997,NA,283.jpg
+284,Stekt falukorv/baked sausage,272,NA,284.jpg
+285,Bilar/foam candy,336,NA,285.jpg
+286,Cocktail nuts,547,NA,286.jpg
+287,Cracker with cheese,376,NA,287.jpg
+288,Punschrullar,453,NA,288.jpg
+289,Round pastry/danish,315,NA,289.jpg
+290,Tucs,472,NA,290.jpg
+291,Chocolate muffin,419,NA,291.jpg
+292,Chokladbollar/chocolat balls,428,NA,292.jpg
+293,"maräng, meringue",336,NA,293.jpg
+294,Quiche lorraine,259,NA,294.jpg
+295,Prinsesstårta/princess cake,295,NA,295.jpg
+296,Lördagsgodis/mixed candy,475.66666552998,NA,296.jpg
+297,Piggelin/popsicles,91,NA,297.jpg
+298,Applesauce,72,NA,298.jpg
+299,Pepparkakor/ginger snaps,461,NA,299.jpg
+300,Snickers,504,NA,300.jpg
+301,Leibniz Pick ups biscuits,499,NA,301.jpg
+302,Knoppers,548,NA,302.jpg
+303,Rice wafers,382,NA,303.jpg
+304,Prince biscuits,469,NA,304.jpg
+305,Leibniz biscuits,443,NA,305.jpg
+306,White roll with cheese,301.024,NA,306.jpg
+307,White roll with mortadella,284.669,NA,307.jpg
+308,White roll with jam,270.116,NA,308.jpg
+309,Slices of brown bread with salami,334.434,NA,309.jpg
+310,Mini salami's,392,NA,310.jpg
+311,Pretzel roll,275,NA,311.jpg
+312,Pretzel roll with cheese,299.596,NA,312.jpg
+313,Pretzell roll with salami,294.539,NA,313.jpg
+314,Pretzel roll with mortadella,283.129,NA,314.jpg
+315,Kinder Milchschnitte,419.3,NA,315.jpg
+316,Paprika chips,544,NA,316.jpg
+317,Cheese burgers,246.3613,NA,317.jpg
+318,Pita with doner,218,NA,318.jpg
+319,Turkish pizza with doner,233.3333,NA,319.jpg
+320,Pizza with salami,259,NA,320.jpg
+321,Pizza margarita,251,NA,321.jpg
+322,French fries with ketchup,267.988,NA,322.jpg
+323,Pretzels with cheese,226,NA,323.jpg
+324,Pretzels with salt,246,NA,324.jpg
+325,Raisin bun,250,NA,325.jpg
+326,Mixed nuts,639,NA,326.jpg
+327,"Sandwich meat, Turkey fillet",113,NA,327.jpg
+328,"Ham, lean, boiled",136,NA,328.jpg
+329,"Roast beef, prepared",156,NA,329.jpg
+330,"Chicken fillet, prepared",158,NA,330.jpg
+331,"Chicken fillet, prepared",158,NA,331.jpg
+332,Beef rump steak prepared,146,NA,332.jpg
+333,"Cod fillet, fried/simmered",118,NA,333.jpg
+334,"Pork rib  chop, prepared",177,NA,334.jpg
+335,Dried plums,NA,NA,335.jpg
+336,Chocolate cereal bar,NA,NA,336.jpg
+337,Sesame bar,NA,NA,337.jpg
+338,Sesame bar,NA,NA,338.jpg
+339,Mastiha turkish delight,NA,NA,339.jpg
+340,Jelly peach flavour,NA,NA,340.jpg
+341,Crackers with jam,NA,NA,341.jpg
+342,Aubergine sweet home made,NA,NA,342.jpg
+343,Apple and cinnamon strudel,NA,NA,343.jpg
+344,Ladyfinger biscuits,NA,NA,344.jpg
+345,Miranda biscuits,NA,NA,345.jpg
+346,Carrot cookies,NA,NA,346.jpg
+347,Mediterranean crackers sesame flavour,NA,NA,347.jpg
+348,Turkey on krispies,NA,NA,348.jpg
+349,Okra with tomato sauce,NA,NA,349.jpg
+350,Olive paste on krispies,NA,NA,350.jpg
+351,Sardines,NA,NA,351.jpg
+352,Halva with almond,NA,NA,352.jpg
+353,Cake with chocolate filling,NA,NA,353.jpg
+354,Profiterol,NA,NA,354.jpg
+355,Oreo biscuits,NA,NA,355.jpg
+356,Doughnut with sugar,NA,NA,356.jpg
+357,Malteasers,NA,NA,357.jpg
+358,Chocolate cake with milk filling,NA,NA,358.jpg
+359,Sweet almond bar,NA,NA,359.jpg
+360,Super jelly pop strawberry,NA,NA,360.jpg
+361,Chocolate cream wafers,NA,NA,361.jpg
+362,Butter candies,NA,NA,362.jpg
+363,Must cookies,NA,NA,363.jpg
+364,Mini croissant with chocolate filling,NA,NA,364.jpg
+365,Pitsinia (bacon- cheese snack),NA,NA,365.jpg
+366,Mixed nuts,639,NA,366.jpg
+367,Doritos nacho,NA,NA,367.jpg
+368,Peinirli,NA,NA,368.jpg
+369,Mini cheese pies,NA,NA,369.jpg
+370,Sausage rolls,NA,NA,370.jpg
+371,Cheese and corn snack,NA,NA,371.jpg
+372,Meat balls in tomato sauce,NA,NA,372.jpg
+373,Bake rolls,NA,NA,373.jpg
+374,Parizaki,NA,NA,374.jpg
+375,Greek sausages,NA,NA,375.jpg
+376,Mini croissant with chocolate filling,NA,NA,376.jpg
+377,Smarties 2,465,NA,377.jpg

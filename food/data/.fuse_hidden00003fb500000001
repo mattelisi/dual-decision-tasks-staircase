@@ -1,0 +1,5 @@
+date	id	age	gender	trial	decision	food_1	log_cal_1	food_2	log_cal_2	rr	accuracy	RT	conf	conf_RT
+01-Aug-2024	xx	33	w	1	1	Brownies	6.982492	Eggs, halves	6.037632	0	1	3.11	NaN	NaN
+01-Aug-2024	xx	33	w	1	1	Pepper potato crisps	6.982492	Kitkat	6.298949	1	1	0.99	NaN	NaN
+01-Aug-2024	xx	33	w	2	1	Cornetto's (icecream)	6.569201	Milk chocolate	7.015533	0	0	3.27	NaN	NaN
+01-Aug-2024	xx	33	w	2	1	Frankfurter sausages	6.569201	Kiwi, halves	5.554509	1	0	1.78	NaN	NaN
